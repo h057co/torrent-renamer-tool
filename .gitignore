@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# El usuario solicitó NO excluir dist/ para mantener el ejecutable
+# dist/ 
+build/
+*.spec
+
+# Local config
+.mcp_data/
+
+# Data
+Files/
+*.torrent
+
+# Repaso específico: el usuario quiere DIST, pero yo había incluido dist/ en la lista estándar de arriba.
+# Procederé a comentarlo o quitarlo de la lista de arriba para ser explícito.

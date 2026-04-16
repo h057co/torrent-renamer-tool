@@ -1,0 +1,4 @@
+# Torrent Renamer Tool
+# Este proyecto usa principalmente la librería estándar de Python.
+# Si deseas recompilarlo, necesitarás:
+pyinstaller==6.19.0
